@@ -16,6 +16,8 @@
 }
 .ellipse {
 }
+.shape {
+}
 .image {
 }
 .placeholder {
@@ -88,7 +90,12 @@
 .checkbox {
   text-align:left;
 }
+.radio_button {
+  text-align:left;
+}
 .table_cell {
+}
+.line {
 }
 .form_hint {
   color:#999999;
@@ -98,7 +105,7 @@
 .paragraph1 {
   text-align:left;
 }
-.shape {
+.shape1 {
 }
 .image1 {
   color:#000000;
